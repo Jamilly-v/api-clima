@@ -1,6 +1,7 @@
 # Integrantes
 
-Jamilly Rilari Lopes Vieira | 2415640 | Desenvolvedora beckend |
-Jamilly Rilari Lopes Vieira | 2415640 | Documentação |
-
+| Nome | Matrícula | Papel |
+|--------|--------|--------|
+| Jamilly Rilari Lopes Vieira | 2415640 | Desenvolvedora backend |
+| Jamilly Rilari Lopes Vieira | 2415640 | Documentação |
 
