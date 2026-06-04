@@ -1,5 +1,6 @@
 # Integrantes
 
-Jamilly Rilari Lopes Vieira - Matrícula: 2415640
+Jamilly Rilari Lopes Vieira | 2415640 | Desenvolvedora beckend |
+Jamilly Rilari Lopes Vieira | 2415640 | Documentação |
 
 
