@@ -28,7 +28,7 @@
       "response": []
     },
     {
-      "name": "Cidades CE",
+      "name": "Cidades por UF",
       "request": {
         "method": "GET",
         "header": [],
@@ -50,7 +50,7 @@
       "response": []
     },
     {
-      "name": "Clima Fortaleza",
+      "name": "Climas por Cidades",
       "request": {
         "method": "GET",
         "header": [],
